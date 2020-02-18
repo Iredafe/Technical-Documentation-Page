@@ -1,0 +1,58 @@
+#JavaScript_Doc{
+  font-weight:bold;
+  font-size: 24pt;
+  margin-left:0px;
+}
+
+
+
+#nav-bar{
+  height:100%;
+ float: left;
+  top:20px;
+  left:20px;
+  min-width:290px;
+  padding: 10px;
+   border-right:solid;
+  border-color:rgba(0,22,22,0.4)
+}
+
+
+#nav-link{
+ position: relative;
+  top:0;
+  left:0;
+  float:left;
+  
+}
+
+
+
+#main-doc{
+position: relative;
+  font-size: 12pt;
+  font-family: Cambria;
+  align-text:center;
+  margin:0;
+margin-left:50px;
+  padding:20px;
+  z-index:2;
+}
+
+
+
+header{
+  font-size: 14pt;
+  font-weight: bold;
+  position:relative;
+}
+
+.main-section{
+  font-weight:normal;
+  font-size: 14pt;
+  position:relative;
+
+}
+@media (max-width:800px;){
+  
+}
